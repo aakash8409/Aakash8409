@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aakash Jyoti Srivastava</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+<img align= "right" alt ="coding" width ="400 src="![image](https://github.com/user-attachments/assets/32b1a672-285f-4957-8db8-0f867ff9f55d)">
 
 
 - 👯 I’m looking to collaborate on **Front-end projects**
