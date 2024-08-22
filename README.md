@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aakash Jyoti Srivastava</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align= "right" alt ="coding" width ="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftopwebpro.co.uk%2Fmarketing-e-newsletters-web-application&psig=AOvVaw3HwoOYyODdvJtlJkenk-XO&ust=1724382137373000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJD7i5vOh4gDFQAAAAAdAAAAABAZ)">
+<img align= "right" alt ="coding" width ="400" src="https://topwebpro.co.uk/wp-content/uploads/2023/02/top-10.gif">
 
 
 - 👯 I’m looking to collaborate on **Front-end projects**
