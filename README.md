@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aakash Jyoti Srivastava</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 👯 I’m looking to collaborate on **Front-end projects**
+- 👯 I’m looking to collaborate on **Web Designing**
 
-- 🤝 I’m looking for help with **backend and database**
+- 🤝 I’m looking for help with **Software Development**
 
 - 📫 How to reach me **aakashsriv3795@gmail.com**
 
